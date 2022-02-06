@@ -22,7 +22,7 @@ var/
 wheels/
 pip-wheel-metadata/
 share/python-wheels/
-*.egg-info/
+*.egg-info
 .installed.cfg
 *.egg
 MANIFEST
@@ -131,3 +131,6 @@ dmypy.json
 
 # passwords file
 credentials.ini
+
+# Pycharm project settings
+.idea/
